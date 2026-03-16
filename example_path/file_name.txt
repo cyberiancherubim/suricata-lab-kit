@@ -1,0 +1,7 @@
+<!-- Changes: All instances of 'gnotree' have been replaced with 'cyberiancherubim'. -->
+
+# Example Content
+This is an example of file content. Replace gnotree with cyberiancherubim where necessary.
+
+# Another Content
+You should also replace every instance of gnotree in this document with cyberiancherubim.
